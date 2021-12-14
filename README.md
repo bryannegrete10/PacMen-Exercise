@@ -1,5 +1,25 @@
 # PacMen-Exercise
 
+## Project Name:
+
+Pacmen Exercise
+
+## Description:
+
+Add code to starter files to make unlimited pacmen appear on screen. Then make them bounce all over screen. 
+
+## Installation / How to run:
+
+Download the respository. Click Download Zip file, Unzip the file and Drag and Drop the index.html file to the URL of a web browser.
+
+## Usage:
+
+Course work only.
+
+## Support:
+
+Staff at MIT.
+
 
 ## License Information:
 
